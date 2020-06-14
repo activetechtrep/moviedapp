@@ -1,0 +1,7 @@
+{
+  "name": "popapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
